@@ -88,6 +88,6 @@ public class CSkills {
         
         sSkills.save(skills);
         
-        return new ResponseEntity(new Mensaje("Educacion actualizada"), HttpStatus.OK);
+        return new ResponseEntity(new Mensaje("Skill actualizada"), HttpStatus.OK);
     }
 }
