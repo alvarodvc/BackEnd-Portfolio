@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.DeleteMapping;
 
 @RestController
 @RequestMapping("/explab")
-@CrossOrigin(origins = "https://frontendalva.web.app")
+@CrossOrigin(origins = {"https://frontendalva.web.app", "http://localhost:4200/"})
 public class CExperiencia {
     @Autowired
     SExperiencia sExperiencia;
