@@ -8,7 +8,8 @@
 
 - A continuación se incluye el __Diagrama Entidad - Relación (DER)__ utilizado en la Base de Datos Relacional y que posteriormente se traduce en los Modelos o Entidades del *BackEnd*:
 
-![DER](https://user-images.githubusercontent.com/81993104/188731131-311786bc-cad5-494f-8413-8a886557f4c3.png)
+![DER_proyecto](https://user-images.githubusercontent.com/81993104/198421662-555c1c42-9738-44a3-a4bd-2a8fbbc7931b.png)
+
 
 - La relacion esta establecida en el usuario y el rol que tiene en la edicion de la web.
 
